@@ -9,6 +9,7 @@
 	"difficulty": "beginner",
 	"syntax": "python",
 	"duration" : 2,
+	"template_url": "https://github.com/4GeeksAcademy/machine-learning-python-template",
     	"projectType": "project",
 	"description" : "How much will your insurance cost based on a set of variables? Use this small dataset to model the relationship between several explanatory variables and a numerical target using a linear regression algorithm."
 }
